@@ -317,7 +317,7 @@ const Index = () => (
               ITBootcamp 2018 course: QA - Software Testing
             </ProjectCard>
             <ProjectCard
-              title="Unreal University WordPress Site"
+              title="Unreal University WordPress Theme"
               link="https://github.com/radovanovicslobodan/unreal-university-wordpress-site"
               bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
             >
