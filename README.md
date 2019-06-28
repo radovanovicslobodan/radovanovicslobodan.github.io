@@ -1,1 +1,1 @@
-Code for may personal website.
+Code for my personal website.
